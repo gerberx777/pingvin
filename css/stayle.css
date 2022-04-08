@@ -11,11 +11,13 @@
 @media only screen and (max-width: 599px) {
     .h1_0{
         display: flexbox;
+        justify-content: center;
     }
 }
 
 @media only screen and (min-width: 600px) {
     .h1_0{
         display: flex;
+        justify-content: center;
     }
 }

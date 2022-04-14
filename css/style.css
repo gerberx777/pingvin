@@ -1,17 +1,17 @@
-
 @media only screen and (max-width: 599px) {
     .h1_0{
-        display: flexbox;
+        width: 340px;
+        margin: 0 auto;
     }
     .h1_1{
-        width: 350px;
-        height: 350px;
-        margin: auto;
+        width: 340px;
+        height: 340px;
     }
     .h1_2{
-        width: 3500px;
-        height: 350px;
-        margin: auto;
+        width: 340px;
+        height: 340px;
+        text-align: center;
+        font-size: 30px;
     }
 }
 
@@ -21,14 +21,14 @@
         justify-content: center;
     }
     .h1_1{
-        width: 350px;
-        height: 350px;
+        width: 340px;
+        height: 340px;
     }
     .h1_2{
-        width: 350px;
-        height: 350px;
+        align-self: center;
+        width: 340px;
+        height:auto;
+        font-size: 30px;
+        text-align: center;
     }
-}
-p {
-    font-size: 30px;
 }
